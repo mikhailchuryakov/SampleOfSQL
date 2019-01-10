@@ -1,0 +1,7 @@
+# idea and java bytecode ignore
+out/
+.idea/
+target/
+
+# all iml files ignore
+*.iml
